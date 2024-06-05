@@ -1,0 +1,23 @@
+{
+  "shopName": "Mój muzyczny skład",
+  "products": [
+    {
+      "id": 1,
+      "name":  "CD Album",
+      "price": 120.22,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name":  "Słuchawki Bluetooth",
+      "price": 200.99,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name":  "Bateria AAA - 1 szt.",
+      "price": 2.50,
+      "available": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "3-read-user-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-logic.js",
+  "scripts": {
+    "my-program": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
